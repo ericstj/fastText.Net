@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ericstj/FastText.Net/main/eng/icon.png" alt="FastText.Net logo" width="128" height="128">
+</p>
+
 # FastText.Net
 
 A managed, **dependency-free** C# port of [Facebook fastText](https://github.com/facebookresearch/fastText)
